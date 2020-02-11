@@ -9,7 +9,7 @@ words_per_minute: 200
 baseurl: /
 
 # Website info
-title: Ghost
+title: stay
 description: The professional publishing platform
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
@@ -71,7 +71,7 @@ safe: False
 lsi: False
 username: ha-rdcore
 repo: stayroom.github.io
-branch: master
+branch: https://ha-rdcore.github.io/stayroom.github.io/
 relative_source: ../jasper2/
 destination: https://ha-rdcore.github.io/stayroom.github.io/
 production_url:  https://jekyller.github.io/jasper2/
