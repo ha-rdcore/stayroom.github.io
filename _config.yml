@@ -73,7 +73,7 @@ username: jekyller
 repo: jasper2
 branch: master
 relative_source: ../jasper2/
-destination: ../jasper2-pages/
+destination: ../
 production_url:  https://ha-rdcore.github.io/stayroom.github.io/
 source_url:  https://ha-rdcore.github.io/stayroom.github.io/
 
