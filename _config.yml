@@ -29,7 +29,7 @@ facebook: ghost # replace by your username
 
 # Disqus
 disqus: False
-disqus_shortname: jekyller # replace with your disqus username
+disqus_shortname: ha-rdcore # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-69281367-1 # replace with your GA tracking identifier
@@ -69,11 +69,11 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
-repo: jasper2
+username: ha-rdcore
+repo: stayroom
 branch: master
-relative_source: ../jasper2/
-destination: ../
+relative_source: /
+destination: /
 production_url:  https://ha-rdcore.github.io/stayroom.github.io/
 source_url:  https://ha-rdcore.github.io/stayroom.github.io/
 
