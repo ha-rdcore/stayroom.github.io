@@ -70,10 +70,10 @@ feed:
 safe: False
 lsi: False
 username: ha-rdcore
-repo: https://ha-rdcore.github.io/stayroom.github.io/
+repo: stayroom.github.io
 branch: master
-relative_source: ../jasper2/
-destination: https://ha-rdcore.github.io/stayroom.github.io/
+relative_source: ../stayroom.github.io/
+destination: ../posts
 production_url:  https://ha-rdcore.github.io/stayroom.github.io/
 source_url:  https://ha-rdcore.github.io/stayroom.github.io/
 
