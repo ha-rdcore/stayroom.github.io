@@ -18,7 +18,7 @@ CNAME = CONFIG["CNAME"]
 
 def check_destination
   unless Dir.exist? CONFIG["destination"]
-    sh "git clone https://github.com/ha-rdcore/stayroom.github.io/ #{CONFIG["destination"]}"
+    sh "git clone https://$GIT_NAME:$GH_TOKEN@github.com/#{USERNAME}/#{REPO}.git #{CONFIG["destination"]}"
   end
 end
 

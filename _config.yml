@@ -6,7 +6,7 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: /stayroom.github.io/
 
 # Website info
 title: STAYROOM
@@ -15,8 +15,8 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://github.com/ha-rdcore/stayroom.github.io/
-source_url: https://github.com/ha-rdcore/stayroom.github.io/
+production_url: https://ha-rdcore.github.io/stayroom.github.io/
+source_url: https://github.com/ha-rdcore/stayroom.github.io
 CNAME: #add cname for website to be created
 
 # Social info
@@ -73,9 +73,9 @@ username: ha-rdcore
 repo: stayroom.github.io
 branch: master
 relative_source: ../stayroom.github.io/
-destination: https://github.com/ha-rdcore/stayroom.github.io/
-production_url:  https://github.com/ha-rdcore/stayroom.github.io/
-source_url:  https://github.com/ha-rdcore/stayroom.github.io/
+destination: ../stayroom.github.io-pages/
+production_url: https://ha-rdcore.github.io/stayroom.github.io/
+source_url: https://github.com/ha-rdcore/stayroom.github.io
 
 exclude:
   - assets/css
