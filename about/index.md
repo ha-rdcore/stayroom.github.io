@@ -1,7 +1,7 @@
 ---
 layout: page
-current: about
-title: About
+current: 요금
+title: 요금
 navigation: true
 logo: 'assets/images/ghost.png'
 class: page-template
