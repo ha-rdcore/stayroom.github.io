@@ -1,6 +1,6 @@
 ---
 layout: page
-current: 요금
+current: about
 title: 요금
 navigation: true
 logo: 'assets/images/ghost.png'
